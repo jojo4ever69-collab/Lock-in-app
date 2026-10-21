@@ -1,0 +1,16 @@
+{
+  "name": "Lock In",
+  "short_name": "Lock In",
+  "description": "Film a focus timelapse without draining your battery, then track your sessions the way Strava tracks runs.",
+  "start_url": "./#/record",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0c0c0b",
+  "theme_color": "#0c0c0b",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
